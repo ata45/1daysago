@@ -30,7 +30,7 @@
             </android.support.design.widget.AppBarLayout>
 
         </LinearLayout>
-        <FrameLayout
+        <!--<FrameLayout
             android:id="@+id/content"
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -46,7 +46,7 @@
                 android:layout_marginTop="@dimen/activity_vertical_margin"
                 android:text="@string/title_home" />
 
-        </FrameLayout>
+        </FrameLayout>-->
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

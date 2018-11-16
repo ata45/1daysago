@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class DescriptionShop extends AppCompatActivity {
 
-    private TextView mTextMessage;
+    /*private TextView mTextMessage;
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
@@ -40,6 +40,6 @@ public class DescriptionShop extends AppCompatActivity {
         mTextMessage = (TextView) findViewById(R.id.message);
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
-    }
+    }*/
 
 }
