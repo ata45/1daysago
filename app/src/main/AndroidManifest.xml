@@ -20,7 +20,10 @@
         </activity>
         <activity
             android:name=".DescriptionShop"
-            android:label="@string/title_activity_description_shop"></activity>
+            android:label="@string/title_activity_description_shop" />
+        <activity
+            android:name=".Flight"
+            android:label="@string/title_activity_flight"></activity>
     </application>
 
 </manifest>
