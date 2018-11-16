@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class Flight extends AppCompatActivity {
 
-    /*private TextView mTextMessage;
+    private TextView mTextMessage;
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
@@ -27,7 +27,7 @@ public class Flight extends AppCompatActivity {
                     mTextMessage.setText(R.string.title_notifications);
                     return true;
             }
-            return false;*/
+            return false;
         }
 
     };
